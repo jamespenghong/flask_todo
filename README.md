@@ -11,3 +11,4 @@ flask_sqlalchemy,flask_script用于方便管理数据库。
 * 模块化设计，model,config等文件都是分开，便于维护
 
 ## 项目截图
+![](https://raw.githubusercontent.com/jamespenghong/flask_todo/master/%E6%90%9C%E7%8B%97%E6%88%AA%E5%9B%BE20180110111716.jpg)
